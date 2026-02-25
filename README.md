@@ -57,9 +57,3 @@ This project is designed as an **end-to-end ML engineering demo**, showcasing da
 
 ---
 
-## 🛠️ Installation
-
-Clone the repository and install dependencies:
-
-```bash
-pip install -r requirements.txt
